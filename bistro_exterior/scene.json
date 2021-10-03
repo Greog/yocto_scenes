@@ -7971,7 +7971,6 @@
       "color": [1, 1, 1],
       "color_tex": "Stringlights_BaseColor",
       "normal_tex": "Stringlights_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -7981,7 +7980,6 @@
       "emission_tex": "Paris_StringLights_01_Orange_Color_Emissive_Emissive",
       "color_tex": "Paris_StringLights_01_Orange_Color_Emissive_BaseColor",
       "normal_tex": "Paris_StringLights_01_Orange_Color_Emissive_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -7991,7 +7989,6 @@
       "emission_tex": "Paris_StringLights_01_Blue_Color_Emissive_Emissive",
       "color_tex": "Paris_StringLights_01_Blue_Color_Emissive_BaseColor",
       "normal_tex": "Paris_StringLights_01_Blue_Color_Emissive_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8001,7 +7998,6 @@
       "emission_tex": "Paris_StringLights_01_White_Color_Emissive_Emissive",
       "color_tex": "Paris_StringLights_01_White_Color_Emissive_BaseColor",
       "normal_tex": "Paris_StringLights_01_White_Color_Emissive_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8011,7 +8007,6 @@
       "emission_tex": "Paris_StringLights_01_Pink_Color_Emissive_Emissive",
       "color_tex": "Paris_StringLights_01_Pink_Color_Emissive_BaseColor",
       "normal_tex": "Paris_StringLights_01_Pink_Color_Emissive_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8021,7 +8016,6 @@
       "emission_tex": "Paris_StringLights_01_Red_Color_Emissive_Emissive",
       "color_tex": "Paris_StringLights_01_Red_Color_Emissive_BaseColor",
       "normal_tex": "Paris_StringLights_01_Red_Color_Emissive_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8031,7 +8025,6 @@
       "emission_tex": "Paris_StringLights_01_Green_Color_Emissive_Emissive",
       "color_tex": "Paris_StringLights_01_Green_Color_Emissive_BaseColor",
       "normal_tex": "Paris_StringLights_01_Green_Color_Emissive_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8039,7 +8032,6 @@
       "color": [1, 1, 1],
       "color_tex": "MASTER_Bistro_Main_Door_BaseColor",
       "normal_tex": "MASTER_Bistro_Main_Door_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8047,7 +8039,6 @@
       "color": [1, 1, 1],
       "color_tex": "Pavement_Curbstones_BaseColor",
       "normal_tex": "Pavement_Curbstones_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8055,7 +8046,6 @@
       "color": [1, 1, 1],
       "color_tex": "Pavement_Manhole_Cover_BaseColor",
       "normal_tex": "Pavement_Manhole_Cover_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8063,7 +8053,6 @@
       "color": [1, 1, 1],
       "color_tex": "Pavement_Cobblestone_Wet_BLENDSHADER_BaseColor",
       "normal_tex": "Pavement_Cobblestone_Wet_BLENDSHADER_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8071,7 +8060,6 @@
       "color": [1, 1, 1],
       "color_tex": "MASTER_Focus_BaseColor",
       "normal_tex": "MASTER_Focus_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8082,7 +8070,6 @@
       "opacity_tex": "Emissive_StreetLight_BaseColor",
       "color_tex": "Emissive_StreetLight_BaseColor",
       "normal_tex": "Emissive_StreetLight_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8092,7 +8079,6 @@
       "emission_tex": "Spotlight_Glass_Emissive_Emissive",
       "color_tex": "Spotlight_Glass_Emissive_BaseColor",
       "normal_tex": "Spotlight_Glass_Emissive_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8100,7 +8086,6 @@
       "color": [1, 1, 1],
       "color_tex": "LanternEmissive_BaseColor",
       "normal_tex": "LanternEmissive_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8108,7 +8093,6 @@
       "color": [1, 1, 1],
       "color_tex": "Trashcan_BaseColor",
       "normal_tex": "Trashcan_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8116,7 +8100,6 @@
       "color": [1, 1, 1],
       "color_tex": "Banner_Metal_BaseColor",
       "normal_tex": "Banner_Metal_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8124,7 +8107,6 @@
       "color": [1, 1, 1],
       "color_tex": "Spotlight_Main_BaseColor",
       "normal_tex": "Spotlight_Main_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8132,7 +8114,6 @@
       "color": [1, 1, 1],
       "color_tex": "Spotlight_Emissive_BaseColor",
       "normal_tex": "Spotlight_Emissive_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8140,7 +8121,6 @@
       "color": [1, 1, 1],
       "color_tex": "Paris_TrafficSign_A_BaseColor",
       "normal_tex": "Paris_TrafficSign_A_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8148,7 +8128,6 @@
       "color": [1, 1, 1],
       "color_tex": "Paris_Table_Terrace_BaseColor",
       "normal_tex": "Paris_Table_Terrace_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8156,7 +8135,6 @@
       "color": [1, 1, 1],
       "color_tex": "Paris_StreetSign_01_BaseColor",
       "normal_tex": "Paris_StreetSign_01_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8164,24 +8142,20 @@
       "color": [1, 1, 1],
       "color_tex": "Paris_StreetPivot_BaseColor",
       "normal_tex": "Paris_StreetPivot_Normal",
-      "metallic": 0.35,
-      "specular": 1,
+      "metallic": 0.1,
       "roughness": 0.7
     },
     "Streetlight_Metal": {
       "color": [1, 1, 1],
       "color_tex": "Streetlight_Metal_BaseColor",
       "normal_tex": "Streetlight_Metal_Normal",
-      "coat": 1,
-      "specular": 1,
-      "metallic": 0.35,
+      "metallic": 0.1,
       "roughness": 0.010000
     },
     "Paris_StringLights_01_White_Color": {
       "color": [1, 1, 1],
       "color_tex": "Paris_StringLights_01_White_Color_BaseColor",
       "normal_tex": "Paris_StringLights_01_White_Color_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8189,7 +8163,6 @@
       "color": [1, 1, 1],
       "color_tex": "Streetlight_Support_Bulb_BaseColor",
       "normal_tex": "Streetlight_Support_Bulb_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8197,7 +8170,6 @@
       "color": [1, 1, 1],
       "color_tex": "Streetlight_Chains_BaseColor",
       "normal_tex": "Streetlight_Chains_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8205,7 +8177,6 @@
       "color": [1, 1, 1],
       "color_tex": "Concrete3_BaseColor",
       "normal_tex": "Concrete3_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8213,7 +8184,6 @@
       "color": [1, 1, 1],
       "color_tex": "MASTER_Brick_Small_Red_BLENDSHADER_BaseColor",
       "normal_tex": "MASTER_Brick_Small_Red_BLENDSHADER_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8221,7 +8191,6 @@
       "color": [1, 1, 1],
       "color_tex": "Pavement_Ground_Wet_BaseColor",
       "normal_tex": "Pavement_Ground_Wet_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8229,7 +8198,6 @@
       "color": [1, 1, 1],
       "color_tex": "Pavement_Cobble_Leaves_BLENDSHADER_BaseColor",
       "normal_tex": "Pavement_Cobble_Leaves_BLENDSHADER_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8237,7 +8205,6 @@
       "color": [1, 1, 1],
       "color_tex": "Pavement_Cobblestone_01_BLENDSHADER_BaseColor",
       "normal_tex": "Pavement_Cobblestone_01_BLENDSHADER_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8245,7 +8212,6 @@
       "color": [1, 1, 1],
       "color_tex": "Pavement_Cobblestone_Wet_Leaves_BLENDSHADER_BaseColor",
       "normal_tex": "Pavement_Cobblestone_Wet_Leaves_BLENDSHADER_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8253,7 +8219,6 @@
       "color": [1, 1, 1],
       "color_tex": "Pavement_Cobblestone_Small_BLENDSHADER_BaseColor",
       "normal_tex": "Pavement_Cobblestone_Small_BLENDSHADER_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8261,7 +8226,6 @@
       "color": [1, 1, 1],
       "color_tex": "Pavement_Cobblestone_Big_BLENDSHADER_BaseColor",
       "normal_tex": "Pavement_Cobblestone_Big_BLENDSHADER_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8269,7 +8233,6 @@
       "color": [1, 1, 1],
       "color_tex": "Pavement_Brick_BLENDSHADER_BaseColor",
       "normal_tex": "Pavement_Brick_BLENDSHADER_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8277,7 +8240,6 @@
       "color": [1, 1, 1],
       "color_tex": "Pavement_Cobblestone_02_BaseColor",
       "normal_tex": "Pavement_Cobblestone_02_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8285,7 +8247,6 @@
       "color": [1, 1, 1],
       "color_tex": "Sidewalkbarrier_BaseColor",
       "normal_tex": "Sidewalkbarrier_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8295,7 +8256,6 @@
       "emission_tex": "Shopsign_Pharmacy_Emissive_Emissive",
       "color_tex": "Shopsign_Pharmacy_Emissive_BaseColor",
       "normal_tex": "Shopsign_Pharmacy_Emissive_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8305,7 +8265,6 @@
       "emission_tex": "Shopsign_Book_Store_Emissive_Emissive",
       "color_tex": "Shopsign_Book_Store_Emissive_BaseColor",
       "normal_tex": "Shopsign_Book_Store_Emissive_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8313,7 +8272,6 @@
       "color": [1, 1, 1],
       "color_tex": "Antenna_Metal_BaseColor",
       "normal_tex": "Antenna_Metal_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8321,7 +8279,6 @@
       "color": [1, 1, 1],
       "color_tex": "Shopsign_Bakery_BaseColor",
       "normal_tex": "Shopsign_Bakery_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8329,7 +8286,6 @@
       "color": [1, 1, 1],
       "color_tex": "MASTER_Metal_BaseColor",
       "normal_tex": "MASTER_Metal_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8337,7 +8293,6 @@
       "color": [1, 1, 1],
       "color_tex": "Shopsign_Ties_Shop_BaseColor",
       "normal_tex": "Shopsign_Ties_Shop_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8345,7 +8300,6 @@
       "color": [1, 1, 1],
       "color_tex": "Plantpots_BaseColor",
       "normal_tex": "Plantpots_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8353,7 +8307,6 @@
       "color": [1, 1, 1],
       "color_tex": "NapkinHolder_BaseColor",
       "normal_tex": "NapkinHolder_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8361,7 +8314,6 @@
       "color": [1, 1, 1],
       "color_tex": "MenuSign_02_Mesh_BaseColor",
       "normal_tex": "MenuSign_02_Mesh_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8378,7 +8330,6 @@
       "color": [1, 1, 1],
       "color_tex": "MenuSign_01_BaseColor",
       "normal_tex": "MenuSign_01_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8386,7 +8337,6 @@
       "color": [1, 1, 1],
       "color_tex": "Balcony_Concrete_BaseColor",
       "normal_tex": "Balcony_Concrete_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8394,7 +8344,6 @@
       "color": [1, 1, 1],
       "color_tex": "Balcony_Trims_BaseColor",
       "normal_tex": "Balcony_Trims_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8402,7 +8351,6 @@
       "color": [1, 1, 1],
       "color_tex": "Balcony_Ornaments_BaseColor",
       "normal_tex": "Balcony_Ornaments_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8410,7 +8358,6 @@
       "color": [1, 1, 1],
       "color_tex": "Balcony_Green_Wood_BaseColor",
       "normal_tex": "Balcony_Green_Wood_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8438,7 +8385,6 @@
       "color": [1, 1, 1],
       "color_tex": "Paris_LiquorBottle_01_Caps_BaseColor",
       "normal_tex": "Paris_LiquorBottle_01_Caps_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8447,7 +8393,6 @@
       "opacity_tex": "Paris_LiquorBottle_01_Labels_BaseColor",
       "color_tex": "Paris_LiquorBottle_01_Labels_BaseColor",
       "normal_tex": "Paris_LiquorBottle_01_Labels_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8455,7 +8400,6 @@
       "color": [1, 1, 1],
       "color_tex": "Foliage_Paris_Flowers_BaseColor",
       "normal_tex": "Foliage_Paris_Flowers_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8464,7 +8408,6 @@
       "opacity_tex": "Foliage_Flowers_BaseColor",
       "color_tex": "Foliage_Flowers_BaseColor",
       "normal_tex": "Foliage_Flowers_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8472,7 +8415,6 @@
       "color": [1, 1, 1],
       "color_tex": "ElectricBox_BaseColor",
       "normal_tex": "ElectricBox_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8480,7 +8422,6 @@
       "color": [1, 1, 1],
       "color_tex": "Concrete_BaseColor",
       "normal_tex": "Concrete_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8488,7 +8429,6 @@
       "color": [1, 1, 1],
       "color_tex": "Concrete_Striped_BaseColor",
       "normal_tex": "Concrete_Striped_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8496,7 +8436,6 @@
       "color": [1, 1, 1],
       "color_tex": "Concrete2_BaseColor",
       "normal_tex": "Concrete2_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8504,7 +8443,6 @@
       "color": [1, 1, 1],
       "color_tex": "MASTER_Black_Metal_BaseColor",
       "normal_tex": "MASTER_Black_Metal_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8513,7 +8451,6 @@
       "opacity_tex": "Chimneys_Metal_BaseColor",
       "color_tex": "Chimneys_Metal_BaseColor",
       "normal_tex": "Chimneys_Metal_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8521,7 +8458,6 @@
       "color": [1, 1, 1],
       "color_tex": "Plaster_BaseColor",
       "normal_tex": "Plaster_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8529,16 +8465,13 @@
       "color": [1, 1, 1],
       "color_tex": "Paris_Chair_01_BaseColor",
       "normal_tex": "Paris_Chair_01_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
     "MASTER_Grain_Metal": {
       "roughness": 0.010000,
-      "specular": 1,
       "color": [0.952141, 0.619675, 0.510577],
-      "metallic": 1,
-      "coat": 1,
+      "metallic": 0.1,
       "normal_tex": "MASTER_Grain_Metal_Normal"
     },
     "MASTER_Curtains": {
@@ -8546,7 +8479,6 @@
       "opacity_tex": "MASTER_Curtains_BaseColor",
       "color_tex": "MASTER_Curtains_BaseColor",
       "normal_tex": "MASTER_Curtains_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8554,7 +8486,6 @@
       "color": [1, 1, 1],
       "color_tex": "MASTER_Concrete_Plaster_BaseColor",
       "normal_tex": "MASTER_Concrete_Plaster_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8562,7 +8493,6 @@
       "color": [1, 1, 1],
       "color_tex": "MASTER_Roofing_Shingle_Grey_BaseColor",
       "normal_tex": "MASTER_Roofing_Shingle_Grey_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8570,7 +8500,6 @@
       "color": [1, 1, 1],
       "color_tex": "MASTER_Wood_Painted_Green_BaseColor",
       "normal_tex": "MASTER_Wood_Painted_Green_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8578,7 +8507,6 @@
       "color": [1, 1, 1],
       "color_tex": "MASTER_Room_Interior_BaseColor",
       "normal_tex": "MASTER_Room_Interior_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8586,7 +8514,6 @@
       "color": [1, 1, 1],
       "color_tex": "MASTER_Brick_Large_Beige_BLENDSHADER_BaseColor",
       "normal_tex": "MASTER_Brick_Large_Beige_BLENDSHADER_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8594,7 +8521,6 @@
       "color": [1, 1, 1],
       "color_tex": "MASTER_Doors_BaseColor",
       "normal_tex": "MASTER_Doors_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.100000
     },
@@ -8602,7 +8528,6 @@
       "color": [1, 1, 1],
       "color_tex": "MASTER_Concrete_BaseColor",
       "normal_tex": "MASTER_Concrete_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8611,7 +8536,6 @@
       "opacity_tex": "MASTER_Forge_Metal_BaseColor",
       "color_tex": "MASTER_Forge_Metal_BaseColor",
       "normal_tex": "MASTER_Forge_Metal_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8619,7 +8543,6 @@
       "color": [1, 1, 1],
       "color_tex": "MASTER_Wood_Brown_BaseColor",
       "normal_tex": "MASTER_Wood_Brown_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8627,7 +8550,6 @@
       "color": [1, 1, 1],
       "color_tex": "MASTER_Concrete_Grooved_BaseColor",
       "normal_tex": "MASTER_Concrete_Grooved_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8635,7 +8557,6 @@
       "color": [1, 1, 1],
       "color_tex": "MASTER_Concrete_Smooth_BaseColor",
       "normal_tex": "MASTER_Concrete_Smooth_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8643,7 +8564,6 @@
       "color": [1, 1, 1],
       "color_tex": "MASTER_Concrete_Plaster1_BLENDSHADER_BaseColor",
       "normal_tex": "MASTER_Concrete_Plaster1_BLENDSHADER_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8651,7 +8571,6 @@
       "color": [1, 1, 1],
       "color_tex": "MASTER_Plastic_BaseColor",
       "normal_tex": "MASTER_Plastic_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8668,7 +8587,6 @@
       "color": [1, 1, 1],
       "color_tex": "MASTER_Awning_Fabric_Red_BaseColor",
       "normal_tex": "MASTER_Awning_Fabric_Red_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.050000
     },
@@ -8676,7 +8594,6 @@
       "color": [1, 1, 1],
       "color_tex": "MASTER_Boulangerie_BaseColor",
       "normal_tex": "MASTER_Boulangerie_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.050000
     },
@@ -8684,7 +8601,6 @@
       "color": [1, 1, 1],
       "color_tex": "MASTER_Awning_Beams_BaseColor",
       "normal_tex": "MASTER_Awning_Beams_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8692,7 +8608,6 @@
       "color": [1, 1, 1],
       "color_tex": "MASTER_Roofing_Metal_01_BaseColor",
       "normal_tex": "MASTER_Roofing_Metal_01_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8700,7 +8615,6 @@
       "color": [1, 1, 1],
       "color_tex": "MASTER_Details_Dark_BaseColor",
       "normal_tex": "MASTER_Details_Dark_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8709,7 +8623,6 @@
       "opacity_tex": "MASTER_Rollup_Door_BaseColor",
       "color_tex": "MASTER_Rollup_Door_BaseColor",
       "normal_tex": "MASTER_Rollup_Door_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8717,7 +8630,6 @@
       "color": [1, 1, 1],
       "color_tex": "MASTER_Building_Details_BaseColor",
       "normal_tex": "MASTER_Building_Details_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8725,7 +8637,6 @@
       "color": [1, 1, 1],
       "color_tex": "MASTER_Wood_Painted_Cyan_BaseColor",
       "normal_tex": "MASTER_Wood_Painted_Cyan_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.030000
     },
@@ -8742,7 +8653,6 @@
       "color": [1, 1, 1],
       "color_tex": "MASTER_Awning_Fabric_Cyan_BaseColor",
       "normal_tex": "MASTER_Awning_Fabric_Cyan_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8750,7 +8660,6 @@
       "color": [1, 1, 1],
       "color_tex": "MASTER_Wood_Painted3_BaseColor",
       "normal_tex": "MASTER_Wood_Painted3_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.030000
     },
@@ -8758,7 +8667,6 @@
       "color": [1, 1, 1],
       "color_tex": "MASTER_Bronze_BLENDSHADER_BaseColor",
       "normal_tex": "MASTER_Bronze_BLENDSHADER_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8766,7 +8674,6 @@
       "color": [1, 1, 1],
       "color_tex": "MASTER_Wood_Painted_Green_BLENDSHADER_BaseColor",
       "normal_tex": "MASTER_Wood_Painted_Green_BLENDSHADER_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.050000
     },
@@ -8774,7 +8681,6 @@
       "color": [1, 1, 1],
       "color_tex": "MASTER_Concrete_Smooth_BLENDSHADER_BaseColor",
       "normal_tex": "MASTER_Concrete_Smooth_BLENDSHADER_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8782,7 +8688,6 @@
       "color": [1, 1, 1],
       "color_tex": "MASTER_Book_Covers_BaseColor",
       "normal_tex": "MASTER_Book_Covers_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8790,7 +8695,6 @@
       "color": [1, 1, 1],
       "color_tex": "MASTER_Concrete_White_BaseColor",
       "normal_tex": "MASTER_Concrete_White_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8798,7 +8702,6 @@
       "color": [1, 1, 1],
       "color_tex": "MASTER_Brick_Small_Red_BaseColor",
       "normal_tex": "MASTER_Brick_Small_Red_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8806,7 +8709,6 @@
       "color": [1, 1, 1],
       "color_tex": "MASTER_Brick_Large_White_BaseColor",
       "normal_tex": "MASTER_Brick_Large_White_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8814,17 +8716,13 @@
       "color": [1, 1, 1],
       "color_tex": "MASTER_Light_Bulb_BaseColor",
       "normal_tex": "MASTER_Light_Bulb_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
     "MASTER_Glass_Exterior": {
-      "roughness": 0.000000,
-      "color": [1.0, 1.0, 1.0],
-      "color_tex": "MASTER_Glass_Exterior_BaseColor",
+      "roughness": 0.01,
+      "color": [0.01, 0.01, 0.01],
       "specular": 1,
-      "transmission": 1,
-      "thin": true,
       "normal_tex": "MASTER_Glass_Exterior_Normal"
     },
     "MASTER_Side_Letters": {
@@ -8832,7 +8730,6 @@
       "opacity_tex": "MASTER_Side_Letters_BaseColor",
       "color_tex": "MASTER_Side_Letters_BaseColor",
       "normal_tex": "MASTER_Side_Letters_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8840,7 +8737,6 @@
       "color": [1, 1, 1],
       "color_tex": "MASTER_Concrete1_BaseColor",
       "normal_tex": "MASTER_Concrete1_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8848,7 +8744,6 @@
       "color": [1, 1, 1],
       "color_tex": "MASTER_Focus_Ornament_BaseColor",
       "normal_tex": "MASTER_Focus_Ornament_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8856,7 +8751,6 @@
       "color": [1, 1, 1],
       "color_tex": "MASTER_Metal_Pipe_BaseColor",
       "normal_tex": "MASTER_Metal_Pipe_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8864,7 +8758,6 @@
       "color": [1, 1, 1],
       "color_tex": "MASTER_Wood_Polished_BaseColor",
       "normal_tex": "MASTER_Wood_Polished_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8872,7 +8765,6 @@
       "color": [1, 1, 1],
       "color_tex": "MASTER_Concrete_Yellow_BaseColor",
       "normal_tex": "MASTER_Concrete_Yellow_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8880,7 +8772,6 @@
       "color": [1, 1, 1],
       "color_tex": "MASTER_Roofing_Shingle_Green_BaseColor",
       "normal_tex": "MASTER_Roofing_Shingle_Green_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8888,23 +8779,19 @@
       "color": [1, 1, 1],
       "color_tex": "MASTER_Trim_Cornice_BaseColor",
       "normal_tex": "MASTER_Trim_Cornice_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
     "Bollards": {
       "roughness": 0.010000,
-      "specular": 1,
-      "color": [0.952141, 0.619675, 0.510577],
-      "metallic": 1,
-      "coat": 1,
+      "color": [0.3, 0.3, 0.3],
+      "metallic": 0.1,
       "normal_tex": "Bollards_Normal"
     },
     "Bistro_Sign_Main": {
       "color": [1, 1, 1],
       "color_tex": "Bistro_Sign_Main_BaseColor",
       "normal_tex": "Bistro_Sign_Main_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8912,7 +8799,6 @@
       "color": [1, 1, 1],
       "color_tex": "Bistro_Sign_Letters_BaseColor",
       "normal_tex": "Bistro_Sign_Letters_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8920,7 +8806,6 @@
       "color": [1, 1, 1],
       "color_tex": "Awnings_Hotel_Fabric_BaseColor",
       "normal_tex": "Awnings_Hotel_Fabric_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8928,7 +8813,6 @@
       "color": [1, 1, 1],
       "color_tex": "Awnings_Fabric_BaseColor",
       "normal_tex": "Awnings_Fabric_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8936,7 +8820,6 @@
       "color": [1, 1, 1],
       "color_tex": "Awnings_Beams_BaseColor",
       "normal_tex": "Awnings_Beams_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8944,7 +8827,6 @@
       "color": [1, 1, 1],
       "color_tex": "Ashtray_BaseColor",
       "normal_tex": "Ashtray_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8952,7 +8834,6 @@
       "color": [1, 1, 1],
       "color_tex": "Antenna_Plastic_Blue_BaseColor",
       "normal_tex": "Antenna_Plastic_Blue_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8960,7 +8841,6 @@
       "color": [1, 1, 1],
       "color_tex": "Antenna_Plastic_BaseColor",
       "normal_tex": "Antenna_Plastic_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8968,7 +8848,6 @@
       "color": [1, 1, 1],
       "color_tex": "Foliage_Linde_Tree_Large_Trunk_BaseColor",
       "normal_tex": "Foliage_Linde_Tree_Large_Trunk_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8977,7 +8856,6 @@
       "opacity_tex": "Foliage_Linde_Tree_Large_Orange_Leaves_BaseColor",
       "color_tex": "Foliage_Linde_Tree_Large_Orange_Leaves_BaseColor",
       "normal_tex": "Foliage_Linde_Tree_Large_Orange_Leaves_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8986,7 +8864,6 @@
       "opacity_tex": "Foliage_Linde_Tree_Large_Green_Leaves_BaseColor",
       "color_tex": "Foliage_Linde_Tree_Large_Green_Leaves_BaseColor",
       "normal_tex": "Foliage_Linde_Tree_Large_Green_Leaves_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -8994,7 +8871,6 @@
       "color": [1, 1, 1],
       "color_tex": "Foliage_Ivy_branches_BaseColor",
       "normal_tex": "Foliage_Ivy_branches_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -9003,7 +8879,6 @@
       "opacity_tex": "Foliage_Ivy_leaf_a_BaseColor",
       "color_tex": "Foliage_Ivy_leaf_a_BaseColor",
       "normal_tex": "Foliage_Ivy_leaf_a_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -9012,7 +8887,6 @@
       "opacity_tex": "Foliage_Bux_Hedges46_BaseColor",
       "color_tex": "Foliage_Bux_Hedges46_BaseColor",
       "normal_tex": "Foliage_Bux_Hedges46_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -9020,15 +8894,13 @@
       "color": [1, 1, 1],
       "color_tex": "Vespa_BaseColor",
       "normal_tex": "Vespa_Normal",
-      "specular": 1,
-      "metallic": 0.35,
+      "metallic": 0.1,
       "roughness": 0.010000
     },
     "Vespa_Odometer": {
       "color": [1, 1, 1],
       "color_tex": "Vespa_Odometer_BaseColor",
       "normal_tex": "Vespa_Odometer_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -9046,7 +8918,6 @@
       "opacity_tex": "Foliage_Leaves_BaseColor",
       "color_tex": "Foliage_Leaves_BaseColor",
       "normal_tex": "Foliage_Leaves_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
@@ -9054,12 +8925,10 @@
       "color": [1, 1, 1],
       "color_tex": "Foliage_Trunk_BaseColor",
       "normal_tex": "Foliage_Trunk_Normal",
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     },
     "Vespa_Headlight": {
-      "coat": 1,
       "specular": 1,
       "roughness": 0.500000
     }
